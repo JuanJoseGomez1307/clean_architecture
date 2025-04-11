@@ -1,0 +1,15 @@
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.deps.json
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.dll
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\bin\Debug\net8.0\NorthWind.Writers.pdb
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\bin\Debug\net8.0\NorthWindEntities.dll
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\bin\Debug\net8.0\NorthWindEntities.pdb
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.AssemblyReference.cache
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfoInputs.cache
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.AssemblyInfo.cs
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.csproj.CoreCompileInputs.cache
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWin.84729D45.Up2Date
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.dll
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\refint\NorthWind.Writers.dll
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\NorthWind.Writers.pdb
+C:\Estudio\Cecep\Semestre 6\Arquitectura de Software\Consolidado II\Clean_Architecture\NorthWind.Writers\obj\Debug\net8.0\ref\NorthWind.Writers.dll

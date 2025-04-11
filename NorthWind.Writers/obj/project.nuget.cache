@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DdzJFQAaQIU=",
+  "success": true,
+  "projectFilePath": "C:\\Estudio\\Cecep\\Semestre 6\\Arquitectura de Software\\Consolidado II\\Clean_Architecture\\NorthWind.Writers\\NorthWind.Writers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

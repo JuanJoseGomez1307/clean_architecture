@@ -683,10 +683,25 @@
           "buildTransitive/net8.0/System.Text.Json.targets": {}
         }
       },
+      "NorthWind.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.4",
+          "NorthWindEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NorthWind.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NorthWind.Core.dll": {}
+        }
+      },
       "NorthWind.IoC/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "NorthWind.Core": "1.0.0",
           "NorthWind.Writers": "1.0.0"
         },
         "compile": {
@@ -1752,6 +1767,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "NorthWind.Core/1.0.0": {
+      "type": "project",
+      "path": "../NorthWind.Core/NorthWind.Core.csproj",
+      "msbuildProject": "../NorthWind.Core/NorthWind.Core.csproj"
     },
     "NorthWind.IoC/1.0.0": {
       "type": "project",

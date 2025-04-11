@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWindEntities", "NorthWindEntities.csproj", "{B6FC0885-A9D5-44AB-B78F-0931542456F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.ConsoleApp", "..\NorthWind.ConsoleApp\NorthWind.ConsoleApp.csproj", "{C336B209-A9A5-4945-8019-F633ACEC3277}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Writers", "..\NorthWind.Writers\NorthWind.Writers.csproj", "{EC508B4B-FAA9-475B-ABED-D1B98DBE02F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.IoC", "..\NorthWind.IoC\NorthWind.IoC.csproj", "{8D11F1DE-64F4-4D76-AB5B-996E6866F84E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EC508B4B-FAA9-475B-ABED-D1B98DBE02F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC508B4B-FAA9-475B-ABED-D1B98DBE02F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC508B4B-FAA9-475B-ABED-D1B98DBE02F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D11F1DE-64F4-4D76-AB5B-996E6866F84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D11F1DE-64F4-4D76-AB5B-996E6866F84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D11F1DE-64F4-4D76-AB5B-996E6866F84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D11F1DE-64F4-4D76-AB5B-996E6866F84E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
